@@ -1,0 +1,18 @@
+.hero-section .custom-heading {
+  color: #500073 !important;
+}
+
+.hero-section .custom-button {
+  background-color: #C62300 !important;
+  border-color: #C62300 !important;
+}
+
+.hero-section .custom-button:hover {
+  background-color: #a81c00 !important;
+  border-color: #a81c00 !important;
+}
+
+.lottie-wrapper {
+  max-width: 400px;
+  margin: 20px auto;
+}

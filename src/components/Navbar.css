@@ -1,0 +1,23 @@
+.custom-navbar {
+    background-color: #D9EAFD;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px 10px;
+  }
+  
+  .custom-navbar .navbar-brand {
+    color: #500073 !important;
+    font-weight: bold;
+  }
+  
+  .custom-navbar .nav-link {
+    color: #C62300 !important;
+    margin-left: 10px;
+    font-weight: 500;
+    transition: text-decoration 0.2s ease-in-out;
+  }
+  
+  .custom-navbar .nav-link:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,35 @@
+.services-section .services-title {
+  color: #C62300 !important;
+  font-weight: bold !important;
+}
+
+.services-section .service-card {
+  border-radius: 15px !important;
+  background-color: #ffefec !important;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.services-section .service-card:hover {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Apply animation size using existing service-icon class */
+.services-section .service-icon {
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.services-section .learn-more-btn {
+  background-color: #C62300 !important;
+  border: none !important;
+  font-weight: 500;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.services-section .learn-more-btn:hover {
+  background-color: #a51f00 !important;
+}
